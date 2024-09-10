@@ -21,3 +21,20 @@ Random Forest
 Decision Tree
 XGBoost
 Support Vector Machine (SVM)
+
+Dataset
+The dataset used in this project is the Bank Marketing Dataset from the UCI Machine Learning Repository. It contains various features such as:
+
+Age
+Job
+Marital status
+Education
+Loan status
+Previous campaign contact details
+These features are used to predict the likelihood of a customer subscribing to a term deposit.
+
+Models Evaluation
+The models are evaluated based on their accuracy, precision, recall, and F1-score. The most accurate models were the XGBoost and Random Forest, which achieved a higher prediction accuracy compared to others.
+
+License
+This project is open source and available under the MIT License.
