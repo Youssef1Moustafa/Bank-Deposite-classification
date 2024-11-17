@@ -58,18 +58,6 @@ The target variable is **'y'**, indicating whether the customer subscribed to a 
 ```
 
 
-## **Results**  
-
-| **Model**                | **Accuracy** | **Precision** | **Recall** | **F1-Score** |  
-|--------------------------|--------------|---------------|------------|--------------|  
-| Logistic Regression      | XX%          | XX%           | XX%        | XX%          |  
-| Decision Tree            | XX%          | XX%           | XX%        | XX%          |  
-| Random Forest            | **YY%**      | **YY%**       | **YY%**    | **YY%**      |  
-| XGBoost                  | **YY%**      | **YY%**       | **YY%**    | **YY%**      |  
-| Support Vector Machine   | XX%          | XX%           | XX%        | XX%          |  
-
-**Random Forest** and **XGBoost** outperformed other models, demonstrating strong predictive capabilities.  
-
 
 ## **Getting Started**  
 
